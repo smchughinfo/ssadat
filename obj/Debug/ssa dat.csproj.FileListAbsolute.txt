@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\ssa dat\ssa dat\bin\Debug\ssa dat.exe.config
+C:\Users\Sean\source\repos\ssa dat\ssa dat\bin\Debug\ssa dat.exe
+C:\Users\Sean\source\repos\ssa dat\ssa dat\bin\Debug\ssa dat.pdb
+C:\Users\Sean\source\repos\ssa dat\ssa dat\obj\Debug\ssa dat.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\ssa dat\ssa dat\obj\Debug\ssa dat.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\ssa dat\ssa dat\obj\Debug\ssa dat.exe
+C:\Users\Sean\source\repos\ssa dat\ssa dat\obj\Debug\ssa dat.pdb
